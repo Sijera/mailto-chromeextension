@@ -1,0 +1,98 @@
+{
+  "settingsTitle": {
+    "message": "Mailto: подешавања",
+    "description": "[settings] Title of the settings page"
+  },
+  "popupTitle": {
+    "message": "Одабери сервис е-поште који желиш да користиш",
+    "description": "[popup] Title of the page that pops up when 'ask me every time' is set"
+  },
+  "emailService": {
+    "message": "Сервис е-поште",
+    "description": "[settings] Title of the section that lists the current email service"
+  },
+  "description": {
+    "message": "Отвори mailto: линкове твојим омиљеним сервисoм е-поште на мрежи",
+    "description": "[other] Description shown on chrome://extensions/"
+  },
+  "composeMail": {
+    "message": "Напиши нову поруку",
+    "description": "[settings] Text when you hover over the currently selected email service"
+  },
+  "chooseService": {
+    "message": "Изабери сервис е-поште",
+    "description": "[settings] Title of the section that lets you choose a different email service"
+  },
+  "or": {
+    "message": "или",
+    "description": "[settings] Label in between 'real' email services and additional options"
+  },
+  "addNewLink": {
+    "message": "Додај други сервис",
+    "description": "[settings] Link to add a new service to the list of known email services"
+  },
+  "add": {
+    "message": "додај",
+    "description": "[settings] Label shown on buttons when adding new email services or filtering patterns"
+  },
+  "getHelp": {
+    "message": "помоћ",
+    "description": "[settings] Label shown when adding or modifying an email service"
+  },
+  "getHelpTitle": {
+    "message": "Прикажи помоћ и примере за додавања нових сервиса",
+    "description": "[settings] Label shown when hovering the 'getHelp' text"
+  },
+  "change": {
+    "message": "промени",
+    "description": "[settings] Label shown on buttons or when hovering existing email services"
+  },
+  "remove": {
+    "message": "уклони",
+    "description": "[settings] Label shown on buttons or when hovering existing email services"
+  },
+  "askEveryTime": {
+    "message": "Питај ме сваки пут",
+    "description": "[settings] Option when changing the default email service"
+  },
+  "mailThisPageURL": {
+    "message": "Пошаљи адресу ове странице",
+    "description": "[context menu] Entry in the context menu, if enabled in the settings"
+  },
+  "contextMenuCheckbox": {
+    "message": "Додај ставку у контекстном менију за слање адресе странице",
+    "description": "[settings] Option to enable the context menu entry"
+  },
+  "systemDefault": {
+    "message": "Подразумевана акција система",
+    "description": "[popup] Option in the 'Ask me every time' popup to use the behavior which would be triggered without this extension"
+  },
+  "newServiceURLdescription": {
+    "message": "Унеси пуну УРЛ адресу странице за писање нове поруке жељеног сервиса е-поште",
+    "description": "[settings] Placeholder when adding or modifying an email service"
+  },
+  "newServiceNameDescription": {
+    "message": "Име сервиса (необавезно)",
+    "description": "[settings] Placeholder when adding or modifying an email service"
+  },
+  "contextmenu": {
+    "message": "Контекстни мени",
+    "description": "[settings] Title of the context menu section"
+  },
+  "contextmenuIncompatible": {
+    "message": "Одабрани сервис е-поште није компатибилан са овом опцијом",
+    "description": "[settings] Shown when an email service cannot use the context menu option"
+  },
+  "disableOnWebsites": {
+    "message": "Онемогући на веб сајтовима",
+    "description": "[settings] Title of the section where you can filter the website URLs"
+  },
+  "pattern": {
+    "message": "Образац за филтрирање",
+    "description": "[settings] Placeholder of the input area for new URL exclusion filters"
+  },
+  "donateNoAffiliation": {
+    "message": "Хвала што размишљате о донирању! Имајте на уму да ће вашу донацију примити само аутор овог проширења. Аутор нема пословну повезаност ни са једним пружаоцем услуга е-поште. Ако желите да донирате пружаоцима услуга е-поште, упутите се на њихове веб сајтове.",
+    "description": "[settings] Text when you hover your mouse over the donate button"
+  }
+}
